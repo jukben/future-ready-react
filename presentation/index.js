@@ -68,10 +68,10 @@ export default class Presentation extends React.Component {
             <ListItem>React</ListItem>
             <ListItem>Webpack 2</ListItem>
             <ListItem>WPA support 🚀</ListItem>
-            <ListItem>Dynamic imports</ListItem>
             <ListItem>Code Splitting with Dynamic import()</ListItem>
             <ListItem>Testing (Jest🃏)</ListItem>
             <ListItem>ESLint</ListItem>
+            <ListItem>...</ListItem>
           </List>
         </Slide>
 
